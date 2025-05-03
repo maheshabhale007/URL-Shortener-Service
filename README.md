@@ -112,7 +112,3 @@ Explore the API using the following resources:
 ## Notes
 - Ensure MySQL is running before starting the application.
 - Short codes are unique and case-sensitive.
-- For issues or contributions, contact the developer via [GitHub Issues](https://github.com/your-username/url-shortener/issues).
-
-## License
-[MIT License](LICENSE)
