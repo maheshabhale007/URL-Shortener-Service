@@ -1,0 +1,3 @@
+com\urlshortener\controller\UrlControllerTest.class
+com\urlshortener\UrlShortenerApplicationTests.class
+com\urlshortener\service\UrlServiceTest.class
